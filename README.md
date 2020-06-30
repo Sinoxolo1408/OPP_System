@@ -1,9 +1,6 @@
 # OPP_System
 An application to predict whether or not a customer will eventually make a purchase while using an online shopping portal
 
-## Requirements
-
-
 ## Development
 The application is developed using Java for the interface and Python for machine learning. The prediction is done using using a combination of logistic regression, suport vector machine and nueral networks.
 
